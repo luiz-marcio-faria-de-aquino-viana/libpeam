@@ -1,4 +1,6 @@
 # libpeam
+BIBLIOTECA: LIBPEAM.py
+
 LIBPEAM - Bibliotaca de Funções de Probabilidade e Estatística para Aprendizado de Máquina.
 
 Desenvolvida durante o Curso de Pós-Doutoramento em Engenharia Elétrica com Ênfase em Engenharia de Sistemas e Computação (COPPE/UFRJ em 2020).
@@ -12,7 +14,38 @@ Professores:
 Autor(100%): Luiz Marcio Faria de Aquino Viana, Pós-D.Sc.
 Prazo de dezenvolvimento da Biblioteca: 1 dia (= 1 sabado!)
 
-Aplicação na Análise dos Dados Diários sobre a COVID-19.
+Aplicação: Análise dos Dados Diários sobre a COVID-19.
+
+Objetivo: Para fixar os processo estatísticos apresentados em aula, foi desenvolvido a biblioteca LIBPEAM, implementada em Python, com as funções estatísticas necessárias para a resolução dos problemas da lista de exercícios de aula.
+
+RECURSOS:
+
+1. READDATA(): LEITURA DO DATASET PARA UMA LISTA (DESPREZANDO O CABEÇALHO)
+
+2. QTD(), SOMA(), MIN(), MAX(), MEDIA(), VAR(), STD()
+
+3. OUTLIERS(), WORKSET(), LISTA_FREQ()
+
+4. FUNÇÕES:
+- Geométrica e Exponencial (definição interna),
+- Normal (importada da biblioteca “statistics”),
+- Beta,
+- F, e
+- Chi-Square (importadas da biblioteca: “scipy”)
+
+5. CÁLCULO DO VALOR DE “X” EM FUNÇÃO DA ÁREA (p-value)
+- F e Chi-Square
+
+6. CÁLCULO DOS PARÂMETROS - MLE
+- Geométrica, Beta, Exponencial e Normal
+
+7. IMPLEMENTAÇÃO DOS TESTES
+- One-Way ANOVA
+- Chi-Square
+- Kolmogorov-Smirnov
+
+8. FUNÇÕES PARA APRESENTAÇÃO GRÁFICA
+* implementadas com a biblioteca “matplotlib”
 
 BIBLIOGRAFIA:
 
