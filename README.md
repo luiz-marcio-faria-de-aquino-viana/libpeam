@@ -3,7 +3,7 @@ BIBLIOTECA: LIBPEAM.py
 
 LIBPEAM - Bibliotaca de Funções de Probabilidade e Estatística para Aprendizado de Máquina.
 
-Desenvolvida durante o Curso de Pós-Doutoramento em Engenharia Elétrica com Ênfase em Engenharia de Sistemas e Computação (COPPE/UFRJ em 2020).
+Desenvolvida durante o Curso de Pós-Doutoramento em Engenharia Elétrica com Ênfase em Engenharia de Sistemas e Computação (COPPE/UFRJ entre 2020-2022).
 
 Disciplina: PEAM - Probabilidade e Estatística para Aprendizado de Máquina
 Professores: 
